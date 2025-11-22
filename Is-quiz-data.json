@@ -1,0 +1,38 @@
+{
+  "React Native": [
+    { "difficulty": "easy", "question": "React Native is used to create apps for:", "options": ["Only Android", "Only iOS", "Both Android and iOS", "Windows only"], "answerIndex": 2 },
+    { "difficulty": "easy", "question": "React Native apps are written using:", "options": ["JavaScript", "HTML", "C#", "SQL"], "answerIndex": 0 },
+    { "difficulty": "easy", "question": "What tag is commonly used to group elements in React Native?", "options": ["Group", "View", "Block", "Container"], "answerIndex": 1 },
+    { "difficulty": "easy", "question": "Which component is used to show simple text?", "options": ["Label", "Words", "Text", "P"], "answerIndex": 2 },
+    { "difficulty": "easy", "question": "Which of the following is a basic React Native component?", "options": ["img", "image", "picture", "photo"], "answerIndex": 1 },
+    { "difficulty": "medium", "question": "Which file do you usually open first to write your app code?", "options": ["App.js", "index.html", "style.css", "main.py"], "answerIndex": 0 },
+    { "difficulty": "medium", "question": "How do you show text on the screen in ReactNative?", "options": ["Using Text", "Using Label", "Using Words", "Using Paragraph"], "answerIndex": 0 },
+    { "difficulty": "medium", "question": "How do you add color or style to a component?", "options": ["Using JSON-like objects in StyleSheet", "Using HTML tags", "Using Phyton code", "Using SQL queries"], "answerIndex": 0 },
+    { "difficulty": "hard", "question": " Which component can be pressed by the user?", "options": ["Click", "Pressable", "Tap", "TouchOnly"], "answerIndex": 1 },
+    { "difficulty": "hard", "question": "How do you start your app in Expo?", "options": ["Print it", "Click run or scan QR code", "Open in Notepad", "Export as PDF"], "answerIndex": 1 }
+  ],
+  "HTML, CSS, JS": [
+    { "difficulty": "easy", "question": "Which tag is used to make a paragraph in HTML?", "options": ["para", "p", "pg", "text"], "answerIndex": 1 },
+    { "difficulty": "easy", "question": " Which tag is used to add a hyperlink?", "options": ["a", "link", "url", "href"], "answerIndex": 0 },
+    { "difficulty": "easy", "question": "What symbol is used for a class selector in CSS?", "options": ["#", ".", "@", "*"], "answerIndex": 1 },
+    { "difficulty": "easy", "question": "WWhich tag is used to display an image in HTML?", "options": ["image", "img", "pic", "photo"], "answerIndex": 1 },
+    { "difficulty": "easy", "question": "How do you apply internal CSS in HTML?", "options": ["css", "link", "style", "script"], "answerIndex": 2 },
+    { "difficulty": "medium", "question": "What is the correct file extension for JavaScript files?", "options": ["java", ".js", "script", ".jv"], "answerIndex": 1 },
+    { "difficulty": "medium", "question": " Which HTML tag is used to make text bold?", "options": ["strong", "bold", "bld", "important"], "answerIndex": 0 },
+    { "difficulty": "medium", "question": "Which JavaScript function prints a message in the console?", "options": ["print()", "log()", "console.log()", "show()"], "answerIndex": 2 },
+    { "difficulty": "hard", "question": " Which of the following applies a background color in CSS?", "options": ["background-color: red", "color-background: red;", "bg: red:", "bgcolor:red"], "answerIndex": 0 },
+    { "difficulty": "hard", "question": "Which HTML element contains the visible content of a webpage?", "options": ["html", "main", "body", "section"], "answerIndex": 2 }
+  ],
+  "UI/UX Design Basic Quiz": [
+    { "difficulty": "easy", "question": " What does “UX” stand for?", "options": ["User Xperience", "User Experience", "Unique Experience", "User Exchange"], "answerIndex": 1 },
+    { "difficulty": "easy", "question": "What is the main goal of UX design?", "options": ["Make the interface colorful", "Improve user satisfaction and usability", "Add more animations", "Increase coding complexity"], "answerIndex": 1 },
+    { "difficulty": "easy", "question": "“UI” in UI Design means…", "options": ["User Interaction", "User Interface", "Universal Interface", "Unique Interaction"], "answerIndex": 1 },
+    { "difficulty": "easy", "question": "Which one focuses on the layout, colors, and typography?", "options": ["UX", "UI", "Backend", "Networking"], "answerIndex": 1 },
+    { "difficulty": "easy", "question": "Which of the following is a UX activity?", "options": ["Creating wireframes", "Choosing button colors", "Making logo designs", "Writing HTML code"], "answerIndex": 0 },
+    { "difficulty": "medium", "question": "A “wireframe” is…", "options": ["A finished UI design", " A black-and-white layout showing structure", "A programming code", "A type of animation"], "answerIndex": 1 },
+    { "difficulty": "medium", "question": "Which principle means “users should easily understand how to use the product”?", "options": ["Aesthetics", " Usability", "Security", " Compatibility"], "answerIndex": 1 },
+    { "difficulty": "medium", "question": "The “mental model” in UX is…", "options": ["User's imagination", " User's expectation of how something works", "Designer’s mood", "Coding style"], "answerIndex": 1 },
+    { "difficulty": "hard", "question": " What tool is commonly used for UI/UX prototyping?", "options": [" Microsoft Word", "Figma", "Notepad", "CMD"], "answerIndex": 1 },
+    { "difficulty": "hard", "question": "Which is an example of good UI?", "options": ["Small text and low contrast", " Clear buttons and intuitive navigation", "Hidden menus everywhere", "Overloaded screens with too much information"], "answerIndex": 1 }
+  ]
+}
